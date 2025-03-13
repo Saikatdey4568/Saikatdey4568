@@ -30,3 +30,5 @@
 <h3 align="left">Recognitions:</h3>
 
 ![image alt](https://github.com/Saikatdey4568/Saikatdey4568/blob/8ef2f07bf3d6305d2034c089d8fc8fe8d16c1764/president_showcasing_humanoid.jpg)
+
+<h4 aligh="left"> Showcasing the Humanoid robot in front of President of India Smt. Draupati Murmu </h4>
