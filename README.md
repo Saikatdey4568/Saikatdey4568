@@ -26,5 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saikatdey4568&show_icons=true&locale=en" alt="saikatdey4568" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saikatdey4568&" alt="saikatdey4568" /></p>
-<p align="left"> Recognitions </p>
+
+<h3 align="left">Recognitions:</h3>
+
 ![image alt](https://github.com/Saikatdey4568/Saikatdey4568/blob/8ef2f07bf3d6305d2034c089d8fc8fe8d16c1764/president_showcasing_humanoid.jpg)
