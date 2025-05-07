@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Humanoid Robot**
 
-- 🤝 Experience
+<h3 🤝 Experience </h3>
 - Robotics Software Engineer Intern at Janyu Technologies ,Vasai, Mumbai----May 2025-Present
-[Intern Technologist](Speciality Product and Services, Jamshedpur)----May 2024-August 2024 
+- Intern Technologist at Speciality Product and Services, Jamshedpur----May 2024-August 2024 
 
 - 👨‍💻 All of my projects are available at [https://saikatdey-portfolio.netlify.app/](https://saikatdey-portfolio.netlify.app/)
 
